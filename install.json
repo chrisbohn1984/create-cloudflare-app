@@ -16,7 +16,7 @@
     {
       "type": "TXT",
       "content": "Managed TXT Record",
-      "name": "Created by create-cloudflare-app",
+      "name": "Productivity",
       "ttl": 120
     }
   ],
